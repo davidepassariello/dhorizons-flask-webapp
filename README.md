@@ -14,6 +14,14 @@ DHorizons is an academic prototype of a student-run portal for a Digital Humanit
 - Optional image attachments to posts and events
 - Responsive presentation using Jinja templates, CSS and JavaScript
 
+## Project Status
+
+DHorizons was developed as an academic prototype for a university Web Technologies course. It demonstrates a Flask-based content management application with an administrative interface, database integration, and dynamic pages.
+
+The public portfolio version has been adapted to exclude personal data and replace its original authentication configuration. Full local testing of this adapted version is still pending.
+
+This is an educational demonstration, not an official university website or a production-ready service.
+
 ## Local setup
 
 Requires Python 3.10+.
