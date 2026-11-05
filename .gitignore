@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local Flask configuration
+.env
+.env.*
+!.env.example
+
+# SQLite databases
+*.db
+*.sqlite3
+instance/
+
+# User uploads
+static/uploads/
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Test cache
+.pytest_cache/
