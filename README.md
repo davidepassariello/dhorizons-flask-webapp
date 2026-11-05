@@ -1,4 +1,4 @@
-# DHorizons — Digital Humanities Student Portal
+# DHorizons - Digital Humanities Student Portal
 
 **Flask · Python · SQLite · SQLAlchemy · HTML · CSS · JavaScript**
 
